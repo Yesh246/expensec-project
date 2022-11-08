@@ -1,14 +1,14 @@
 [tool.poetry]
-name = "flask_login_tutorial"
+name = "flasklogin"
 version = "0.1.0"
 description = ""
-authors = ["Todd Birchard <toddbirchard@gmail.com>"]
-maintainers = ["Todd Birchard <toddbirchard@gmail.com>"]
+authors = ["#"]
+maintainers = ["#"]
 license = "MIT"
 readme = "README.md"
-homepage = "https://hackersandslackers.com/flask-login-user-authentication/"
-repository = "https://github.com/toddbirchard/flasklogin-tutorial/"
-documentation = "https://hackersandslackers.com/flask-login-user-authentication/"
+homepage = "#"
+repository = "#"
+documentation = "#"
 keywords = [
     "Flask",
     "Flask-Login",
@@ -45,4 +45,4 @@ build-backend = "poetry.masonry.api"
 run = "wsgi:app"
 
 [tool.poetry.urls]
-issues = "https://github.com/toddbirchard/flasklogin-tutorial/issues"
+issues = "https://github.com/Yesh246/expensec-project/issues"
